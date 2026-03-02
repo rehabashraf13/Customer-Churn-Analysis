@@ -1,0 +1,1 @@
+This project aims to analyze customer data to predict Customer Churn (when customers leave the service). We use Exploratory Data Analysis (EDA) techniques to understand the factors influencing a customer's decision to stay or leave.
